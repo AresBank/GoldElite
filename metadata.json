@@ -1,0 +1,8 @@
+{
+  "name": "GoldPayments Elite",
+  "description": "A high-end, luxury fintech dashboard featuring Plaid integration simulation, biometric security, and AI-powered financial advisory with a premium Dark & Gold aesthetic.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
